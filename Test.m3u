@@ -1,1 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",T Sports
+http://176.119.29.52/live/00:1A:79:75:C2:64/SN_07CE48BB6F18A/48010.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",StarzPlay Sports Tv 
+http://176.119.29.52/live/00:1A:79:75:C2:64/SN_07CE48BB6F18A/125421.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",IPL
+http://176.119.29.52/live/00:1A:79:75:C2:64/SN_07CE48BB6F18A/123919.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Sky Sports Cricket TV
+http://public.iptv18.tech/tata.php?id=8894&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Astro Cricket TV
+http://public.iptv18.tech/tata.php?id=206091&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",TLT TV
+https://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Zee Cinema HD
+http://watchindia.net:8880/live/83023/62335/787.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Zee Action HD
+tp://watchindia.net:8880/live/83023/62335/821.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Zee Zest HD
+http://watchindia.net:8880/live/83023/62335/2359.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Zee Classic HD
+http://watchindia.net:8880/live/83023/62335/802.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Aakash Aath 
+http://watchindia.net:8880/live/83023/62335/2295.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Colours Bangla HD
+http://watchindia.net:8880/live/83023/62335/2284.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Saanget Bangla
+http://watchindia.net:8880/live/83023/62335/2288.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Sony Aath
+http://watchindia.net:8880/live/62448/92037/2286.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Sun Bangla 
+http://watchindia.net:8880/live/83023/62335/2290.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Zee Bangla HD
+http://watchindia.net:8880/live/83023/62335/2283.m3u8
 
