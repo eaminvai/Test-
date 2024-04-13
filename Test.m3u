@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Test
+https://ythls.armelin.one/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",T Sports
 http://176.119.29.52/live/00:1A:79:75:C2:64/SN_07CE48BB6F18A/48010.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",StarzPlay Sports Tv 
