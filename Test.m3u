@@ -79,99 +79,100 @@ http://103.107.79.87:8080/CH8110HD08/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="BANGLA" ,71 TV
+
+#EXTINF:-1 group-title="Palki" ,71 TV
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,ANANDA TV
+#EXTINF:-1 group-title="Palki" ,ANANDA TV
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,ASIAN TV
+#EXTINF:-1 group-title="Palki" ,ASIAN TV
 http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,ASIAN TV
+#EXTINF:0 group-title="Palki" ,ASIAN TV
 http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,ATN BANGLA
+#EXTINF:0 group-title="Palki" ,ATN Palki
 http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,ATN News Bangla
+#EXTINF:-1 group-title="Palki" ,ATN News Bangla
 http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
-#EXTINF:-1 group-title="BANGLA" ,ATN NEWS HD
+#EXTINF:-1 group-title="Palki" ,ATN NEWS HD
 http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,BANGLA TV
+#EXTINF:0 group-title="Palki" ,Palki TV
 http://cdn01.palki.tv/live/BanglaTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,BANGLAVISION
+#EXTINF:0 group-title="Palki" ,BANGLAVISION
 http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,BIJOY TV
+#EXTINF:0 group-title="Palki" ,BIJOY TV
 http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,BOISHAKHI TV
+#EXTINF:-1 group-title="Palki" ,BOISHAKHI TV
 http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:0 group-title="BANGLA" ,BOISHAKHI TV
+#EXTINF:0 group-title="Palki" ,BOISHAKHI TV
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,BTV
+#EXTINF:-1 group-title="Palki" ,BTV
 http://cdn01.palki.tv/live/BTV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,BTV CHATTOGRAM
+#EXTINF:-1 group-title="Palki" ,BTV CHATTOGRAM
 http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,BTV WORLD
+#EXTINF:-1 group-title="Palki" ,BTV WORLD
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,CHANNEL 24
+#EXTINF:0 group-title="Palki" ,CHANNEL 24
 http://cdn01.palki.tv/live/Channel24-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,CHANNEL 9
+#EXTINF:-1 group-title="Palki" ,CHANNEL 9
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,CHANNEL I
+#EXTINF:-1 group-title="Palki" ,CHANNEL I
 http://208.86.19.13:81/510.stream/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,Channel i SD
+#EXTINF:0 group-title="Palki" ,Channel i SD
 http://cdn01.palki.tv/live/Channeli-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,CHANNEL NINE BD
+#EXTINF:0 group-title="Palki" ,CHANNEL NINE BD
 http://59.103.181.178:8000/play/a06i/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,DBC NEWS
+#EXTINF:0 group-title="Palki" ,DBC NEWS
 http://cdn01.palki.tv/live/DBC-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,DEEPTO TV
+#EXTINF:0 group-title="Palki" ,DEEPTO TV
 http://cdn01.palki.tv/live/DeeptoTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,Deepto TV HD
+#EXTINF:0 group-title="Palki" ,Deepto TV HD
 http://59.103.181.178:8000/play/a06a/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,DESH TV
+#EXTINF:-1 group-title="Palki" ,DESH TV
 http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,DESH TV
+#EXTINF:0 group-title="Palki" ,DESH TV
 http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,DURONTO TV
+#EXTINF:0 group-title="Palki" ,DURONTO TV
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,Ekattor TV
+#EXTINF:0 group-title="Palki" ,Ekattor TV
 https://ythlsgo.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
-#EXTINF:0 group-title="BANGLA" ,EKHON TV
+#EXTINF:0 group-title="Palki" ,EKHON TV
 http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,Ekushay TV
+#EXTINF:-1 group-title="Palki" ,Ekushay TV
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:0 group-title="BANGLA" ,GAAN BANGLA
+#EXTINF:0 group-title="Palki" ,GAAN Palki
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,GLOBAL TV
+#EXTINF:0 group-title="Palki" ,GLOBAL TV
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,GLOBAL TV HD
+#EXTINF:0 group-title="Palki" ,GLOBAL TV HD
 http://59.103.181.178:8000/play/a06g/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,GREEN TV
+#EXTINF:0 group-title="Palki" ,GREEN TV
 http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,INDEPENDENT TV
+#EXTINF:0 group-title="Palki" ,INDEPENDENT TV
 http://cdn01.palki.tv/live/Independent-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,JAMUNA TV
+#EXTINF:0 group-title="Palki" ,JAMUNA TV
 http://cdn01.palki.tv/live/JamunaTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,MaasrangaTV
+#EXTINF:0 group-title="Palki" ,MaasrangaTV
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,MOHONA TV
+#EXTINF:0 group-title="Palki" ,MOHONA TV
 http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,My TV
+#EXTINF:0 group-title="Palki" ,My TV
 http://cdn01.palki.tv/live/MyTV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,NAGORIK TV
+#EXTINF:-1 group-title="Palki" ,NAGORIK TV
 http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,NAGORIK TV
+#EXTINF:0 group-title="Palki" ,NAGORIK TV
 http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,NEWS 24
+#EXTINF:0 group-title="Palki" ,NEWS 24
 http://cdn01.palki.tv/live/News24-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,NTV
+#EXTINF:-1 group-title="Palki" ,NTV
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,NUXUS TV
+#EXTINF:0 group-title="Palki" ,NUXUS TV
 http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,Peace-tv-Bangla
+#EXTINF:-1 group-title="Palki" ,Peace-tv-Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
-#EXTINF:0 group-title="BANGLA" ,RTV
+#EXTINF:0 group-title="Palki" ,RTV
 http://cdn01.palki.tv/live/RTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,SA TV
+#EXTINF:0 group-title="Palki" ,SA TV
 http://cdn01.palki.tv/live/SATV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,SANGSHAD TV
+#EXTINF:-1 group-title="Palki" ,SANGSHAD TV
 http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
-#EXTINF:0 group-title="BANGLA" ,SOMOY TV
+#EXTINF:0 group-title="Palki" ,SOMOY TV
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
