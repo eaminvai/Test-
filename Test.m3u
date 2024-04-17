@@ -1,5 +1,49 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",BONGO  FLIX
+https://drive.usercontent.google.com/download?id=1hnukESeuf2Gs0Y8l5z_IirR42UKSZ5TA&export=download&authuser=0&confirm=t&uuid=0ce15247-7f6a-408c-97dc-80941186a3c0&at=APZUnTUc83qnX-KAbC0MPXImV4Lq:1712522805001
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Test
-https://ythls.armelin.one/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="BDIX CHANNELS",G TV 
+http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png"group-title="BDIX CHANNELS",Star Jalsha HD
+http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png"group-title="BDIX CHANNELS",Zee Bangla HD
+http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIX CHANNELS"tvg-logo="https://i.ibb.co/KbB098T/IMG-20240126-112549.png",Sun Bangla
+http://103.107.79.87:8080/CH8110SD04/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmKbpg1/IMG-20240126-103114.png" group-title="BDIX CHANNELS",Sony AATH
+http://103.107.79.87:8080/CH8110HD06/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIX CHANNELS"tvg-logo="https://i.ibb.co/9cfcKcP/IMG-20240126-113721.png",Jalsha Movies 
+http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIX CHANNELS" tvg-logo="https://i.ibb.co/FXC13pc/IMG-20240320-113532.png" ,Colors Bangla Cinema
+http://103.107.79.87:8080/CH8109HD04/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MByQRjy/IMG-20240320-114908.jpg" group-title="BDIX CHANNELS",STAR PLUS HD 
+http://103.107.79.87:8080/CH8108HD03/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIX CHANNELS" tvg-logo="https://i.ibb.co/Zzj7q0D/IMG-20240126-115732.png",Zee TV
+http://103.107.79.87:8080/CH8108SD07/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIX CHANNELS" tvg-logo="https://i.ibb.co/193nw47/IMG-20240126-115928.jpg",Zee Cinema HD 
+http://103.107.79.87:8080/CH8109HD02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIX CHANNELS" tvg-logo="https://i.ibb.co/1bKXj1x/IMG-20240126-093309.png",Sony SET 
+http://103.107.79.87:8080/CH8108SD04/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIX CHANNELS" tvg-logo="https://i.ibb.co/V3Zhf2t/IMG-20240126-093241.png",Sony MAX HD
+http://103.107.79.87:8080/CH8108SD08/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIX CHANNELS" tvg-logo="https://i.ibb.co/fxSX6yv/IMG-20240126-121202.jp",UTV Movies HD
+http://103.107.79.87:8080/CH8109HD05/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIX CHANNELS" tvg-logo="https://i.ibb.co/fxSX6yv/IMG-20240126-121202.jp",UTV Cinema HD
+http://103.107.79.87:8080/CH8109HD01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX CHANNELS" tvg-logo="https://i.imgur.com/1M0jHid.jp",Hollywood HD 
+http://103.107.79.87:8080/CH8109HD08/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIX CHANNELS" tvg-logo="https://i.ibb.co/2Kt2PCN/IMG-20240320-115112.jpg",AXN
+http://103.107.79.87:8080/CH8109HD06/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F7DJWvg/IMG-20240320-115732.jpg" group-title="BDIX CHANNELS", DURONTO TV
+http://103.107.79.87:8080/CH8108SD01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX CHANNELS"tvg-logo="https://i.ibb.co/Xyc4xbV/IMG-20240129-071243.png",National Geographic
+http://103.107.79.87:8080/CH8110HD07/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIX CHANNELS"tvg-logo="https://i.ibb.co/P4xmskD/IMG-20240129-071636.jpg",Discovery Bangla
+http://103.107.79.87:8080/CH8110HD08/tracks-v1a1/mono.m3u8
